@@ -23,7 +23,6 @@ This project demonstrates an end-to-end machine learning workflow to predict how
 
 We use historical Olympic data from [Kaggle](https://www.kaggle.com/) containing:
 - `teams.csv`: Country-level aggregated data
-- `athlete_events.csv`: Original athlete-level data
 
 ## 🛠️ Tech Stack
 
